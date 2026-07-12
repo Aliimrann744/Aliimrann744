@@ -3,7 +3,7 @@
 # Ali Imran
 
 <a href="https://github.com/aliimrann744">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=808080&center=true&vCenter=true&width=640&lines=Senior+Software+Engineer;Full-Stack+%C2%B7+AI+%26+LLM+Engineering;Mobile+(Android+%26+iOS)+%C2%B7+DevOps+%26+Infrastructure" alt="Senior Software Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=8B949E&center=true&vCenter=true&width=640&lines=Senior+Software+Engineer;Full-Stack+%C2%B7+AI+%26+LLM+Engineering;Mobile+(Android+%26+iOS)+%C2%B7+DevOps+%26+Infrastructure" alt="Senior Software Engineer" />
 </a>
 
 <p>
@@ -136,21 +136,31 @@ Multi-format document conversion, QR codes, and subscription billing as a SaaS.
 
 ---
 
-## GitHub Stats
+## GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aliimrann744&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=555555&text_color=555555&icon_color=555555&bg_color=00000000" alt="Ali Imran's GitHub stats" height="165" />
+<img src="https://github-stats-extended.vercel.app/api?username=aliimrann744&show_icons=true&include_all_commits=true&hide_border=true&title_color=8b949e&text_color=8b949e&icon_color=8b949e&bg_color=00000000" alt="Ali Imran's GitHub Stats" height="170" />
+&nbsp;
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=aliimrann744&layout=compact&hide_border=true&langs_count=8&title_color=8b949e&text_color=8b949e&bg_color=00000000" alt="Top Languages" height="170" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliimrann744&layout=compact&hide_border=true&langs_count=8&title_color=555555&text_color=555555&bg_color=00000000" alt="Top Languages" height="165" />
+<br/><br/>
 
-<br/>
+<img src="https://streak-stats.demolab.com?user=aliimrann744&hide_border=true&background=00000000&ring=8b949e&fire=8b949e&currStreakNum=c9d1d9&currStreakLabel=8b949e&sideNums=c9d1d9&sideLabels=8b949e&dates=6e7681&stroke=8b949e" alt="GitHub Streak" />
 
-<img src="https://streak-stats.demolab.com?user=aliimrann744&hide_border=true&background=00000000&ring=555555&fire=555555&currStreakNum=555555&currStreakLabel=555555&sideNums=555555&sideLabels=555555&dates=888888&stroke=555555" alt="GitHub Streak" />
+<br/><br/>
 
-<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aliimrann744&theme=github_dark" alt="Profile Summary" width="820" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aliimrann744&hide_border=true&bg_color=00000000&color=555555&line=8b949e&point=555555&area=false" alt="Activity Graph" />
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aliimrann744&theme=github_dark" alt="Repos per Language" height="180" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aliimrann744&theme=github_dark" alt="Most Commit Language" height="180" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aliimrann744&hide_border=true&bg_color=00000000&color=8b949e&line=8b949e&point=c9d1d9&area=true&area_color=30363d" alt="Contribution Activity Graph" width="90%" />
 
 </div>
 
